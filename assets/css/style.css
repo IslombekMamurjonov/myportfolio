@@ -455,7 +455,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #040b14;
+  background-color: #d17f34;
 }
 
 /* qwertyuiop */
@@ -506,21 +506,19 @@ section {
   background: #E9E8E8;
 }
 
-/*--------------------------------------------------------------
-# Resume
---------------------------------------------------------------*/
+/*# Resume*/
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #050d18;
+  color: #d17f34;
 }
 
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #1f5297;
+  border-left: 2px solid #d17f34;
   position: relative;
 }
 
@@ -564,7 +562,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #1f5297;
+  border: 2px solid #d17f34;
 }
 
 /*--------------------------------------------------------------
